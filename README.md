@@ -4,9 +4,7 @@ A backend REST API service for managing and analyzing application reviews and ra
 
 ## 📋 GitHub Repository
 
-**Repository URL:** [https://github.com/yourusername/app-review-stats](https://github.com/yourusername/app-review-stats)
-
-*Replace with your actual GitHub repository URL*
+**Repository URL:** [https://github.com/Jeeva202/app-review-stats](https://github.com/Jeeva202/app-review-stats)
 
 ## 🚀 Quick Start
 
@@ -18,7 +16,7 @@ A backend REST API service for managing and analyzing application reviews and ra
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/app-review-stats.git
+git clone https://github.com/Jeeva202/app-review-stats.git
 cd app-review-stats
 
 # Install dependencies
